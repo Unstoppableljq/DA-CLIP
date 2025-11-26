@@ -28,7 +28,7 @@ Coming soon....
 
 ```bash
 # Clone the repository
-git clone https://github.com/[你的Github用户名]/[你的仓库名].git
+git clone https://github.com/Unstoppableljq/DA-CLIP.git
 cd [你的仓库名]
 
 # Create a conda environment
