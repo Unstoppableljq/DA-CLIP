@@ -29,7 +29,7 @@ Coming soon....
 ```bash
 # Clone the repository
 git clone https://github.com/Unstoppableljq/DA-CLIP.git
-cd [你的仓库名]
+cd DA-CLIP
 
 # Create a conda environment
 conda create -n daclip python=3.10 -y
