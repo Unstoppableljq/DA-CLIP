@@ -1,4 +1,4 @@
-# DA-CLIP: DA-CLIP: Mitigating Granularity Mismatch in Zero-Shot Anomaly Detection via Decoupled Text-Visual Alignment
+# DA-CLIP: Mitigating Granularity Mismatch in Zero-Shot Anomaly Detection via Decoupled Text-Visual Alignment
 
 <!-- 这里的标签可以根据需要保留或删除 -->
 [Submitted to CVPR2026] 
