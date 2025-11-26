@@ -1,7 +1,8 @@
-# [你的项目名称]: [项目的一句话简介，例如：Enhancing Visual Representation via ...]
+# DA-CLIP: DA-CLIP: Mitigating Granularity Mismatch in Zero-Shot Anomaly Detection via Decoupled Text-Visual Alignment
 
 <!-- 这里的标签可以根据需要保留或删除 -->
-[[arXiv Paper]](你的论文链接) [[Project Page]](你的项目主页链接) [Official Pytorch Implementation]
+[Submitted to CVPR2026] 
+[Official Pytorch Implementation of Mitigating Granularity Mismatch in Zero-Shot Anomaly Detection via Decoupled Text-Visual Alignment, 2025]
 
 <!-- 放置一张最能代表你项目的流程图或效果图 -->
 ![Teaser](figures/teaser.png)
